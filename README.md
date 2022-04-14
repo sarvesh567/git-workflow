@@ -1,2 +1,2 @@
 README
-This line added by another contributor this creates merge conflict.
+Some text that will create merge conflict.
