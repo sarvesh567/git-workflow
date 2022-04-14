@@ -1,2 +1,3 @@
 README
-This line added by another contributor this creates merge conflict.
+I made this change from merge-conflict branch
+
